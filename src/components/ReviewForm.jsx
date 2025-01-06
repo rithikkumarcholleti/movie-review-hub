@@ -105,9 +105,9 @@ const ReviewForm = ({ movieTitle }) => {
     emailjs
       .sendForm(
         'service_rxl7cvo',
-        'template_nv7k7mj',
+        'template_hacddls',
         form.current,
-        'SqkI10KwM5VAYPixM'
+        'JYg84I_DmeKzO_Bag'
       )
       .then(
         (result) => {

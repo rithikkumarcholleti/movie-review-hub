@@ -2,7 +2,7 @@
 
 A modern, responsive movie review application built with React that allows users to discover, search, and review movies using TMDb API.
 
-![Movie Review Hub](https://i.imgur.com/YOUR_SCREENSHOT.jpg)
+![Movie Review Hub](c:\Users\choll\OneDrive\Pictures\Screenshots\Screenshot 2025-01-06 184150.png)
 
 ## ✨ Features
 
